@@ -55,7 +55,7 @@ padding-right: 7rem;
     display: flex;
     gap:5rem;
     padding: 0px 9rem;
-    margin-left: 8rem;
+    margin-left: 6rem;
    
 }
 .LeverageFooter{
@@ -91,6 +91,7 @@ padding-right: 7rem;
         font-weight: 400;
         font-size: 16px;
         color: #FFFFFF;
+        white-space: nowrap;
       
 
     }
@@ -109,6 +110,7 @@ padding-right: 7rem;
         font-weight: 400;
         font-size: 16px;
         color: #FFFFFF;
+        white-space:nowrap;
         
       
 
@@ -136,7 +138,8 @@ padding-right: 7rem;
         width: 148px;
         height: 60px;
        border:none;
-background: linear-gradient(94.06deg, #FFB629 -1.21%, #FFDA56 58.66%, #FFD7A6 116.84%);
+       background: linear-gradient(94.06deg, #FFB629 -1.21%, #FFDA56 58.66%, #FFD7A6 116.84%);
+       cursor:pointer;
     }
 }
 
